@@ -35,7 +35,7 @@ java -jar COSTProject_MSPCAAHC.jar
 
 ## Follow Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** https://www.linkedin.com/in/udavith-reshanjana
 - **GitHub:** https://github.com/Udavith-Reshanjana
 
 ## License
