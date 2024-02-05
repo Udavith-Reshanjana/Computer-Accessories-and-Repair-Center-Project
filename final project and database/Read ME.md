@@ -37,10 +37,3 @@ java -jar COSTProject_MSPCAAHC.jar
 
 - **LinkedIn:** https://www.linkedin.com/in/udavith-reshanjana
 - **GitHub:** https://github.com/Udavith-Reshanjana
-
-## License
-
-Include information about the license under which your project is distributed. Choose an appropriate license based on your project's requirements.
-
----
-Feel free to customize this template according to the specific details of your project. Providing clear instructions and information in your README can greatly enhance the user and contributor experience.
