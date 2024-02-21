@@ -53,3 +53,8 @@ The Computer Hardware and Repair Management System is a comprehensive Java-based
 ## Conclusion
 
 The Computer Hardware and Repair Management System is designed to be a highly productive and efficient tool for businesses involved in the wholesale distribution of computer hardware accessories. With its user-friendly interfaces and robust features, the system aims to streamline operations, enhance customer satisfaction, and contribute to the overall success of the business.
+
+## Follow Me
+
+- **LinkedIn:** https://www.linkedin.com/in/udavith-reshanjana
+- **GitHub:** https://github.com/Udavith-Reshanjana
